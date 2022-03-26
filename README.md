@@ -27,8 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur![Crowstagram](https://user-images.githubusercontent.com/98653421/160224836-36308202-b400-4e25-9b04-cb551c0b63de.gif)
-.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Crowstagram](https://user-images.githubusercontent.com/98653421/160224839-4e2bc4e5-d1e8-4f39-a395-6d6561097a5c.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
